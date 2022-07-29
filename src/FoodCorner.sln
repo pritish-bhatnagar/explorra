@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodCorner.ConsoleApp", "Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodiesCorner.Backend", "FoodiesCorner.Backend\FoodiesCorner.Backend.csproj", "{0986C91F-A397-48D2-A231-8A412ED1D367}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{70D73B66-9FC7-42E7-AB60-1225AF5FC98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class", "class\class.csproj", "{054DAA43-2928-47CF-97EC-E7B8C98731D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0986C91F-A397-48D2-A231-8A412ED1D367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0986C91F-A397-48D2-A231-8A412ED1D367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0986C91F-A397-48D2-A231-8A412ED1D367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D73B66-9FC7-42E7-AB60-1225AF5FC98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D73B66-9FC7-42E7-AB60-1225AF5FC98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D73B66-9FC7-42E7-AB60-1225AF5FC98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D73B66-9FC7-42E7-AB60-1225AF5FC98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054DAA43-2928-47CF-97EC-E7B8C98731D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054DAA43-2928-47CF-97EC-E7B8C98731D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054DAA43-2928-47CF-97EC-E7B8C98731D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054DAA43-2928-47CF-97EC-E7B8C98731D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\git\explorra\src\FoodCorner.ConsoleApp\bin\Debug\net6.0\FoodCorner.ConsoleApp.exe
+D:\git\explorra\src\FoodCorner.ConsoleApp\bin\Debug\net6.0\FoodCorner.ConsoleApp.deps.json
+D:\git\explorra\src\FoodCorner.ConsoleApp\bin\Debug\net6.0\FoodCorner.ConsoleApp.runtimeconfig.json
+D:\git\explorra\src\FoodCorner.ConsoleApp\bin\Debug\net6.0\FoodCorner.ConsoleApp.dll
+D:\git\explorra\src\FoodCorner.ConsoleApp\bin\Debug\net6.0\FoodCorner.ConsoleApp.pdb
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.csproj.AssemblyReference.cache
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.AssemblyInfoInputs.cache
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.AssemblyInfo.cs
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.dll
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\refint\FoodCorner.ConsoleApp.dll
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.pdb
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\FoodCorner.ConsoleApp.genruntimeconfig.cache
+D:\git\explorra\src\FoodCorner.ConsoleApp\obj\Debug\net6.0\ref\FoodCorner.ConsoleApp.dll

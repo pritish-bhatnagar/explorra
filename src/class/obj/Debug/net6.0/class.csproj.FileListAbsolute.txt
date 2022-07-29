@@ -1,0 +1,15 @@
+D:\git\explorra\src\class\bin\Debug\net6.0\class.exe
+D:\git\explorra\src\class\bin\Debug\net6.0\class.deps.json
+D:\git\explorra\src\class\bin\Debug\net6.0\class.runtimeconfig.json
+D:\git\explorra\src\class\bin\Debug\net6.0\class.dll
+D:\git\explorra\src\class\bin\Debug\net6.0\class.pdb
+D:\git\explorra\src\class\obj\Debug\net6.0\class.csproj.AssemblyReference.cache
+D:\git\explorra\src\class\obj\Debug\net6.0\class.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\explorra\src\class\obj\Debug\net6.0\class.AssemblyInfoInputs.cache
+D:\git\explorra\src\class\obj\Debug\net6.0\class.AssemblyInfo.cs
+D:\git\explorra\src\class\obj\Debug\net6.0\class.csproj.CoreCompileInputs.cache
+D:\git\explorra\src\class\obj\Debug\net6.0\class.dll
+D:\git\explorra\src\class\obj\Debug\net6.0\refint\class.dll
+D:\git\explorra\src\class\obj\Debug\net6.0\class.pdb
+D:\git\explorra\src\class\obj\Debug\net6.0\class.genruntimeconfig.cache
+D:\git\explorra\src\class\obj\Debug\net6.0\ref\class.dll
