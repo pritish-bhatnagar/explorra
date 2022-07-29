@@ -1,11 +1,14 @@
-﻿namespace pritish
+﻿//By Pritish Bhatnagar
+
+namespace FoodieCorner.ConsoleApp
 {
+
 
     public class calc
     {
 
         int a, b;
-        
+
         public void add(int a, int b)
         {
             int add = a + b;
@@ -55,7 +58,7 @@
 
 
 
-       
+
     }
     public class teacher
     {
@@ -91,9 +94,10 @@
         {
             Console.WriteLine("Please enter the class you want to access");
             Console.WriteLine("\n 1 for accessing Calculator \n 2 for Student \n 3 for Teacher");
-            try { 
-            int sw= Convert.ToInt32(Console.ReadLine());
-                if (sw == 1 || sw == 2 || sw==3)
+            try
+            {
+                int sw = Convert.ToInt32(Console.ReadLine());
+                if (sw == 1 || sw == 2 || sw == 3)
                 {
                     switch (sw)
                     {
@@ -189,6 +193,19 @@
 
                             student s1 = new student(na, age, clas, id);
                             Console.WriteLine("His I.D ->" + s1.id);
+                            Console.WriteLine(" wanna see details? press y for yes, n for exit. ");
+                            string see = Console.ReadLine();
+                            if (see == "y")
+                            {
+                                Console.WriteLine(" I.D ->" + s1.id);
+                                Console.WriteLine(" NAME ->" + s1.name);
+                                Console.WriteLine(" AGE ->" + s1.age);
+                                Console.WriteLine(" CLASS ->" + s1.clas);
+                            }
+                            else
+                            {
+                                break;
+                            }
                             break;
 
                         case 3:
@@ -205,14 +222,31 @@
 
                             teacher t1 = new teacher(name, age1, desig, id1);
                             Console.WriteLine(" I.D ->" + t1.id);
+                            Console.WriteLine(" wanna see details? press y for yes, n for exit. ");
+                            string se = Console.ReadLine();
+                            if (se == "y")
+                            {
+                                Console.WriteLine(" I.D ->" + t1.id);
+                                Console.WriteLine(" NAME ->" + t1.name);
+                                Console.WriteLine(" AGE ->" + t1.age);
+                                Console.WriteLine(" DESIGNATION ->" + t1.desig);
+                            }
+                            else
+                            {
+                                break;
+                            }
                             break;
                     }
                 }
-                
+                else
+                {
+                    Console.WriteLine(" PLEASE ENTER NUMBER BETWEEN 1-3");
+                }
+
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                Console.WriteLine("Please Enter a number between 1 or 2");
+                Console.WriteLine("Please DO NOT ENTER A STRING");
 
 
             }
